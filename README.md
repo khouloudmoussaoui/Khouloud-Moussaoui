@@ -15,15 +15,7 @@ Currently, 🤖 I'm a machine learning engineer with hands-on experience in Deep
 
 🛸: I love exploring new tech stack and building cool stuffs.
 🙋🏼‍♀️: I love attending Hackathons, meetups & tech events.
-🌱: Challenges I participated in :
-     -#30daysofML
-     
-     -#100daysofcode
-     
-     -#30daysofflutter
-     
-     -HacktoberFest2022
      
 [![@wiemborchani's Holopin board](https://holopin.io/api/user/board?user=wiemborchani)](https://holopin.io/@wiemborchani)
 ## 💌 How to reach me:
-👉 : wiembborchani@gmail.com
+👉 : khouloudmoussaoui99@gmail.com
