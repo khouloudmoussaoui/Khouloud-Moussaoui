@@ -22,13 +22,6 @@ Currently, 🤖 I'm a machine learning engineer with hands-on experience in Deep
 
 <h1 align="center">Hi 👋, I'm khouloud Moussaoui</h1>
 <h3 align="center">I am a hardworking and ambitious individual with a great passion for Machine Learning.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khouloudmoussaoui&label=Profile%20views&color=0e75b6&style=flat" alt="khouloudmoussaoui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khouloudmoussaoui" alt="khouloudmoussaoui" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Multimodal emotion recognition using EEG signals and facial expressions**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/khouloud_M](https://www.datascienceportfol.io/khouloud_M)
