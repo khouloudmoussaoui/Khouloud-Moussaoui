@@ -1,4 +1,4 @@
-<h1> Hi There, I am Khouloud Moussaoui 💫 </h1>
+<h1 align="center">Hi 👋, I'm khouloud Moussaoui</h1>
 </h1>
 
 <img src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif" width="500px">
@@ -8,25 +8,17 @@ Currently, 🤖 I'm a machine learning engineer with hands-on experience in Deep
 
 👩‍💻 : I am passionate self-taught Computer science engineering student from Tunisia.🇹🇳
 👩‍💻: I am a passionate, self-taught individual from Tunisia.🇹🇳
-
 ✨: I am Junior Data Scientist | ML & AI enthusiast
-
 🛸: I love exploring new tech stack and building cool stuffs.
 🙋🏼‍♀️: I love attending Hackathons, meetups & tech events.
 
-## 💌 How to reach me:
-👉 : khouloudmoussaoui99@gmail.com
-
-
-
-
-<h1 align="center">Hi 👋, I'm khouloud Moussaoui</h1>
-<h3 align="center">I am a hardworking and ambitious individual with a great passion for Machine Learning.</h3>
 - 🔭 I’m currently working on **Multimodal emotion recognition using EEG signals and facial expressions**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/khouloud_M](https://www.datascienceportfol.io/khouloud_M)
 
-- 📫 How to reach me **khouloud moussaoui99@gmail.com**
+- 📫 How to reach me:
+- 👉 **khouloud moussaoui99@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
